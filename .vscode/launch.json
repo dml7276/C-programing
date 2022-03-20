@@ -14,7 +14,7 @@
       "program": "E:/My project/C-programing/C-programing",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "gdb",
+      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
       "externalConsole": false,
       "setupCommands": [
         {
