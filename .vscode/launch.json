@@ -11,7 +11,7 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/dml72/OneDrive/바탕 화면/C언어 코드",
       "environment": [],
-      "program": "c:/Users/dml72/OneDrive/바탕 화면/C언어 코드/build/Debug/outDebug",
+      "program": "E:/My project/C-programing/C-programing",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
       "miDebuggerPath": "gdb",
