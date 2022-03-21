@@ -1,8 +1,6 @@
 {
   "version": "0.2.0",
   "configurations": [
-
-      
     {
       "name": "C/C++ Runner: Debug Session",
       "type": "cppdbg",
@@ -13,10 +11,10 @@
       "stopAtEntry": false,
       "cwd": "c:/Users/dml72/OneDrive/바탕 화면/C언어 코드",
       "environment": [],
-      "program": "${fileDirname}\\${relativeFileDirname}.exe",
+      "program": "c:/Users/dml72/OneDrive/바탕 화면/C언어 코드/build/Debug/outDebug",
       "internalConsoleOptions": "openOnSessionStart",
       "MIMode": "gdb",
-      "miDebuggerPath": "C:/MinGW/bin/gdb.exe",
+      "miDebuggerPath": "gdb",
       "externalConsole": false,
       "setupCommands": [
         {
