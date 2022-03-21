@@ -21,7 +21,7 @@ void Selection_Sort(int A[], int i, int j){
     
     int indexMin = i;
 
-    if(indexMin>7&&j>8)
+    if(indexMin>6&&j>8)
         return;
 
     if(j==10)
@@ -43,3 +43,4 @@ void Selection_Sort(int A[], int i, int j){
 
 
 }
+
